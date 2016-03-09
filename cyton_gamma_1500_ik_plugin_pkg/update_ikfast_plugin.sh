@@ -1,0 +1,1 @@
+rosrun moveit_ikfast create_ikfast_moveit_plugin.py cyton_gamma_1500 arm cyton_gamma_1500_ik_plugin_pkg /home/cptd/catkin_mover/src/cyton_gamma_1500_ik_plugin_pkg/src/cyton_gamma_1500_arm_ikfast_solver.cpp
